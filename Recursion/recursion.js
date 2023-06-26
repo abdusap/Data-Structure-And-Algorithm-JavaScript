@@ -37,3 +37,5 @@ function linear(arr,val,index=0){
 }
 
 console.log(linear(arr,44))
+
+

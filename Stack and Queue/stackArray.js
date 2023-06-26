@@ -17,8 +17,7 @@ class Stack{
         }
         let reverse=''
         for(let i=0;i<str.length;i++){
-             reverse+=stack.pop()
-              
+             reverse+=stack.pop()        
         }
         console.log(reverse);
     }

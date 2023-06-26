@@ -16,3 +16,19 @@ function quickSort(arr){
 }
 
 console.log(quickSort([3,4,62,2,4,7,6,8]));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

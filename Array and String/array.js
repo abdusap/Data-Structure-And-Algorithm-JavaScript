@@ -27,18 +27,18 @@ console.log(same([1,2,2,6], [4,4,396,1]))
 
 
 
-const arr=[1,2,3,4,5]
+// const arr=[1,2,3,4,5]
 
-function reverse(arr){
-  for(let i=0,j=arr.length-1;i<j;i++,j--){
-      let temp=arr[i]
-    arr[i]=arr[j]
-    arr[j]=temp
-  }
-  return arr
-}
+// function reverse(arr){
+//   for(let i=0,j=arr.length-1;i<j;i++,j--){
+//       let temp=arr[i]
+//     arr[i]=arr[j]
+//     arr[j]=temp
+//   }
+//   return arr
+// }
 
-console.log(reverse(arr))
+// console.log(reverse(arr))
 
 
 

@@ -31,7 +31,3 @@ console.log(insertionSort([3,9,4,2]));
 
 
 
-
-
-
-
